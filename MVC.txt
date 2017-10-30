@@ -1,0 +1,5 @@
+Mô hình MVC xuất hiện trong rails với nhiệm vụ tăng cường khả năng bảo trì và phát triển ứng dụng
+MVC được viết tắt bởi Model - View - Controller
+Controller có nhiệm vụ tiêp nhận thông tin từ bên ngoài sau đó xử lý qua model cuối cùng gửi qua view rồi đến người dùng, controller đóng vai trò trung gian giữa model và view
+Model có vai trò thao tác với cơ sở dữ liệu, là thành phần chứa database,các phép logic, phương thức xử lý đưa qua controller lấy dữ liệu rồi gửi qua view
+View có nhiệm vụ tiếp nhận dữ liệu từ controller và hiển thị nội dung sang các đoạn mã HTML, đây có thể coi là thành phần giao diện
